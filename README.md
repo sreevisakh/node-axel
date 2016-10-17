@@ -7,6 +7,14 @@ Install with:
 
     npm install node-axel
 
+## Dependency
+
+This require axel downloader for ubuntu install it with : 
+
+```sh
+    sudo apt install axel
+```
+
 ## Usage Example
 
 ```js
