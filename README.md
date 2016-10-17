@@ -1,4 +1,4 @@
-axel - a node.js axel client
+node-axel - a node.js axel client
 ===========================
 
 This is a wrapper over axel
@@ -23,7 +23,7 @@ axelEvents.on('progress',function(progress){
 // Speed : 20KB/s Progress : 20% Size: 123 
 
 axelEvents.on('finish',function(){
-    console.log('Download Finished);
+    console.log('Download Finished');
 })
 
 axelEvents.on('error',function(error){
