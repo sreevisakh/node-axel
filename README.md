@@ -1,6 +1,8 @@
 node-axel - a node.js axel client
 ===========================
 
+[![npm version](https://badge.fury.io/js/node-axel.svg)](https://badge.fury.io/js/node-axel)
+
 This is a wrapper over axel
 
 Install with:
